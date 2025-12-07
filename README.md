@@ -10,5 +10,4 @@
 - I enjoy learning new things  
 
 ૮₍ ´˘` ₎ა
-![Cute gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
