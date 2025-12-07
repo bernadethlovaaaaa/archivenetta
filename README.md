@@ -10,6 +10,8 @@
 - I enjoy learning new things  
 
 ૮₍ ´˘` ₎ა
-![Cute](https://img.shields.io/badge/Cute-Mode%20On-f8c8dc)
-![Pastel](https://img.shields.io/badge/Pastel-Vibes-ffd1dc)
-![Soft](https://img.shields.io/badge/Soft-Girl%20Era-fadadd)
+![Student](https://img.shields.io/badge/Student-Life-ffb6c1)
+![Voice Over](https://img.shields.io/badge/Voice-Over-fadadd)
+![Design](https://img.shields.io/badge/Design-Lover-ffc0cb)
+![Dreamer](https://img.shields.io/badge/Dreamer-%E2%9C%A8-fbcfe8)
+
