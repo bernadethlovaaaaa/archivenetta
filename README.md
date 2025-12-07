@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header)
+
 🌸 Hi, I'm Bernadetta Dhealova!
 
 🎧 Music Enthusiast 
